@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-09T00:20:46 IST" name="Suite" finished-at="2022-08-09T00:21:15 IST" duration-ms="29557">
+  <suite started-at="2022-10-30T13:19:42 IST" name="Suite" finished-at="2022-10-30T13:19:42 IST" duration-ms="112">
     <groups>
     </groups>
-    <test started-at="2022-08-09T00:20:46 IST" name="Test" finished-at="2022-08-09T00:21:15 IST" duration-ms="29557">
-      <class name="TestModules.Test_LoginTest">
-        <test-method signature="VerifyHomeToSignIn()[pri:1, instance:TestModules.Test_LoginTest@158d2680]" started-at="2022-08-09T00:20:46 IST" name="VerifyHomeToSignIn" finished-at="2022-08-09T00:21:13 IST" duration-ms="27404" status="PASS">
+    <test started-at="2022-10-30T13:19:42 IST" name="Test" finished-at="2022-10-30T13:19:42 IST" duration-ms="112">
+      <class name="TestModules.TestNG2">
+        <test-method signature="ABCD()[pri:0, instance:TestModules.TestNG2@7f3b84b8]" started-at="2022-10-30T13:19:42 IST" name="ABCD" finished-at="2022-10-30T13:19:42 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- VerifyHomeToSignIn -->
-        <test-method signature="SignIn()[pri:2, instance:TestModules.Test_LoginTest@158d2680]" started-at="2022-08-09T00:21:13 IST" name="SignIn" finished-at="2022-08-09T00:21:15 IST" duration-ms="2004" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SignIn -->
-      </class> <!-- TestModules.Test_LoginTest -->
+        </test-method> <!-- ABCD -->
+      </class> <!-- TestModules.TestNG2 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
